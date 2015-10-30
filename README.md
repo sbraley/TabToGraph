@@ -3,7 +3,7 @@ Create graphSON output from a tabular data file using an i2 Analysts Notebook im
 
 Prereqs: Java 7
 
-usage: java  -Dprops=<name of properties file> -jar ProcessTabular.jar
+usage: java  -Dprops=[name of properties file] -jar ProcessTabular.jar
 
 Update the TabToGraph.properties file as follows:
 
