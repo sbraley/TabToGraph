@@ -23,5 +23,3 @@ output=[path for output json file]
 
 send=[true|false]
   value of "true" will import into indicated Bluemix Graph Data Store
-
-
